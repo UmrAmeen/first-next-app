@@ -22,6 +22,7 @@ export default function Page() {
             </a>
             , brought to you by Vercel.
           </p>
+          <p>hello</p>
           <div className={styles.shape} />
 
           {
